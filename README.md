@@ -4,7 +4,7 @@ A Full Stack Developer based in Cebu, Philippines
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,java,jquery,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,java,jquery,spring,reactjs)](https://skillicons.dev)
 
 ### Socials
 

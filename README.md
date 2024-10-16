@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhet Andrei</h1>
+<h1 align="center">Yo 👋, I'm Jhet Andrei</h1>
 <h3 align="center">A Full Stack Developer based in Cebu, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schrodinger41&label=Profile%20views&color=0e75b6&style=flat" alt="schrodinger41" /> </p>

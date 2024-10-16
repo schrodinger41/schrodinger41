@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,java,php,jquery,spring,react,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,java,php,jquery,spring,react,laravel,firebase)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodinger41&show_icons=true&locale=en&layout=compact" alt="schrodinger41" /></p>
 

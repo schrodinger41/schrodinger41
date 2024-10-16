@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jhetdizon41@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qUzNS1F6HBAmjneSGo2uI7YGVBZYKQdj/view](https://drive.google.com/file/d/1qUzNS1F6HBAmjneSGo2uI7YGVBZYKQdj/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qUzNS1F6HBAmjneSGo2uI7YGVBZYKQdj/view)
 
 - ⚡ Fun fact **I am always sleepy**
 

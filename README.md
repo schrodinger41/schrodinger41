@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Jhet Andrei</h1>
-<h3 align="center">A Full Stack Developer based in Cebu, Philippines</h3>
+<h3 align="center">A Full Stack Developer | Software Engineer based in Cebu, Philippines</h3>
 
 
 
